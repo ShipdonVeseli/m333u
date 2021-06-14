@@ -1,65 +1,2605 @@
 #EXTM3U
-#EXTINF:-1,AT:3sat
-http://137.74.92.157:25461/live/osama/2018/16930.ts
-#EXTINF:-1,AT:3HD
-http://137.74.92.157:25461/live/osama/2018/18344.ts
-#EXTINF:-1,AT:4HD
-http://137.74.92.157:25461/live/osama/2018/18343.ts
-#EXTINF:-1,AT:5HD
-http://137.74.92.157:25461/live/osama/2018/18342.ts
-#EXTINF:-1,AT:PULS.4
-http://137.74.92.157:25461/live/osama/2018/25543.ts
-#EXTINF:-1,AT:ATV
-http://137.74.92.157:25461/live/osama/2018/18346.ts
-#EXTINF:-1,AT:AUSTRIA24
-http://137.74.92.157:25461/live/osama/2018/18410.ts
-#EXTINF:-1,AT:Kika
-http://137.74.92.157:25461/live/osama/2018/16945.ts
-#EXTINF:-1,AT:Kika HD
-http://137.74.92.157:25461/live/osama/2018/18393.ts
-#EXTINF:-1,AT:N-TV HD
-http://137.74.92.157:25461/live/osama/2018/16815.ts
-#EXTINF:-1,AT:N24
-http://137.74.92.157:25461/live/osama/2018/16947.ts
-#EXTINF:-1,AT:N24 HD
-http://137.74.92.157:25461/live/osama/2018/18417.ts
-#EXTINF:-1,AT:Nickelodeon
-http://137.74.92.157:25461/live/osama/2018/16950.ts
-#EXTINF:-1,AT:Orf 1
-http://137.74.92.157:25461/live/osama/2018/16951.ts
-#EXTINF:-1,AT:ORF_EINS
-http://137.74.92.157:25461/live/osama/2018/18352.ts
-#EXTINF:-1,AT:ORF2
-http://137.74.92.157:25461/live/osama/2018/18351.ts
-#EXTINF:-1,AT:ORF_III HD
-http://137.74.92.157:25461/live/osama/2018/18350.ts
-#EXTINF:-1,AT:ORF_SPORT
-http://137.74.92.157:25461/live/osama/2018/18348.ts
-#EXTINF:-1,AT:Pro7
-http://137.74.92.157:25461/live/osama/2018/16953.ts
-#EXTINF:-1,AT:Pro7 Fun HD
-http://137.74.92.157:25461/live/osama/2018/16893.ts
-#EXTINF:-1,AT:Pro7 Fun HHD
-http://137.74.92.157:25461/live/osama/2018/18426.ts
-#EXTINF:-1,AT:Pro7 HD
-http://137.74.92.157:25461/live/osama/2018/18432.ts
-#EXTINF:-1,AT:Pro7 MAXX
-http://137.74.92.157:25461/live/osama/2018/18428.ts
-#EXTINF:-1,AT:Servus TV
-http://137.74.92.157:25461/live/osama/2018/16923.ts
-#EXTINF:-1,AT:SIXX
-http://137.74.92.157:25461/live/osama/2018/16805.ts
-#EXTINF:-1,AT:SRF-1
-http://137.74.92.157:25461/live/osama/2018/25540.ts
-#EXTINF:-1,AT:SRF-2
-http://137.74.92.157:25461/live/osama/2018/25541.ts
-#EXTINF:-1,AT:SRF-INFO
-http://137.74.92.157:25461/live/osama/2018/25542.ts
-#EXTINF:-1,AT:SUPER RTL
-http://137.74.92.157:25461/live/osama/2018/18435.ts
-#EXTINF:-1,AT:SUPER RTL HD
-http://137.74.92.157:25461/live/osama/2018/16997.ts
-#EXTINF:-1,AT:VOX HD
-http://137.74.92.157:25461/live/osama/2018/17004.ts
-#EXTINF:-1,AT:VOX HHD
-http://137.74.92.157:25461/live/osama/2018/18429.ts
+#EXTINF:-1,***** ALBANSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/920
+#EXTINF:-1,[ALB] KTV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/910
+#EXTINF:-1,[ALB] TVSH
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/942
+#EXTINF:-1,[ALB] ERA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/941
+#EXTINF:-1,[ALB] KLAN TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/906
+#EXTINF:-1,[ALB] KLAN KOSVA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/907
+#EXTINF:-1,[ALB] VISION PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/911
+#EXTINF:-1,[ALB] TOP CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/909
+#EXTINF:-1,[ALB] RTV 21
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/908
+#EXTINF:-1,[ALB] RTV 21 PLUS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2981
+#EXTINF:-1,[ALB] 21 HD POPULLORE ALB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/938
+#EXTINF:-1,[ALB] RTK 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/940
+#EXTINF:-1,[ALB] RTK 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3390
+#EXTINF:-1,[ALB] RTK 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2979
+#EXTINF:-1,[ALB] RTK 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2980
+#EXTINF:-1,[ALB] ELRODI TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2310
+#EXTINF:-1,[ALB] FOLKLORIT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2312
+#EXTINF:-1,[ALB] MY MUSIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2311
+#EXTINF:-1,[ALB] RTV SHARRI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2314
+#EXTINF:-1,[ALB] STV FOLK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2308
+#EXTINF:-1,[ALB] TV DIASPORA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3023
+#EXTINF:-1,[ALB] TV OPOJA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2309
+#EXTINF:-1,[ALB] FOLK +
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/913
+#EXTINF:-1,[ALB] BURIMI TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3029
+#EXTINF:-1,[ALB] ALSAT M
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/939
+#EXTINF:-1,[ALB] JOLLY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/914
+#EXTINF:-1,[ALB] T-KANAL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1175
+#EXTINF:-1,[ALB] DIGI GOLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2316
+#EXTINF:-1,[ALB] FILM NJE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/912
+#EXTINF:-1,[ALB] FILM HITS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/916
+#EXTINF:-1,[ALB] FILM DY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/918
+#EXTINF:-1,[ALB] FILM AKSION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/904
+#EXTINF:-1,[ALB] FILM KOMEDI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/905
+#EXTINF:-1,[ALB] TRING
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/936
+#EXTINF:-1,[ALB] TRING WORLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/937
+#EXTINF:-1,[ALB] TRING SUPER
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/935
+#EXTINF:-1,[ALB] TRING SHQIP
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/934
+#EXTINF:-1,[ALB] TRING PLANET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/933
+#EXTINF:-1,[ALB] TRING MAX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/932
+#EXTINF:-1,[ALB] TRING LIFE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/931
+#EXTINF:-1,[ALB] TRING FANTASY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/917
+#EXTINF:-1,[ALB] ALB HINDI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2990
+#EXTINF:-1,[ALB] ALB WESTERN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2991
+#EXTINF:-1,[ALB] KINO ACTION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2988
+#EXTINF:-1,[ALB] KINO PREMIERE 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2985
+#EXTINF:-1,[ALB] KINO PREMIERE 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2986
+#EXTINF:-1,[ALB] TV BESA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2992
+#EXTINF:-1,[ALB] TV DUKAGJINI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2984
+#EXTINF:-1,[ALB] TV MITROVICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2982
+#EXTINF:-1,[ALB] TV TIRANA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2983
+#EXTINF:-1,[ALB] FIRST CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2899
+#EXTINF:-1,[ALB] TOP ESTRADA TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4567
+#EXTINF:-1,[ALB] TOP NEWS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8787
+#EXTINF:-1,[ALB] NEWS 24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8788
+#EXTINF:-1,[ALB] ORA NEWS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8789
+#EXTINF:-1,***** DEUTSCH *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/701
+#EXTINF:-1,[DE] DAS ERSTE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/805
+#EXTINF:-1,[DE] ZDF
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2188
+#EXTINF:-1,[DE] SAT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/351
+#EXTINF:-1,[DE] SAT 1 GOLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1813
+#EXTINF:-1,[DE] RTL DE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/464
+#EXTINF:-1,[DE] RTL2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2145
+#EXTINF:-1,[DE] RTL PLUS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8529
+#EXTINF:-1,[DE] RTL NITRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1809
+#EXTINF:-1,[DE] RTL CRIME
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2142
+#EXTINF:-1,[DE] RTL LIVING DE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1811
+#EXTINF:-1,[DE] RTL PASSION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2143
+#EXTINF:-1,[DE] PRO 7
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/264
+#EXTINF:-1,[DE] PRO 7 MAXX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2136
+#EXTINF:-1,[DE] KABEL 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/352
+#EXTINF:-1,[DE] VOX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2186
+#EXTINF:-1,[DE] VOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/153
+#EXTINF:-1,[DE] N-TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7835
+#EXTINF:-1,[DE] SIXX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1814
+#EXTINF:-1,[DE] DMAX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/717
+#EXTINF:-1,[DE] TLC DE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1820
+#EXTINF:-1,[DE] ANIXE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2082
+#EXTINF:-1,[DE] N24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2128
+#EXTINF:-1,[DE] NDR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2133
+#EXTINF:-1,[DE] RBB HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4817
+#EXTINF:-1,[DE] 3 SAT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/806
+#EXTINF:-1,[DE] KIKA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2120
+#EXTINF:-1,[DE] NICKELODEON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1728
+#EXTINF:-1,[DE] SUPER RTL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2172
+#EXTINF:-1,[DE] DISNEY CHANNEL DE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1819
+#EXTINF:-1,[DE] DISNEY CINEMAGIC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2094
+#EXTINF:-1,[DE] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2095
+#EXTINF:-1,[DE] DISNEY XD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2096
+#EXTINF:-1,[DE]  +3  HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2976
+#EXTINF:-1,[DE]  +4  HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2975
+#EXTINF:-1,[DE]  +5  HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2974
+#EXTINF:-1,[DE] FOX DE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/803
+#EXTINF:-1,[DE] AXN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/943
+#EXTINF:-1,[DE] ORF 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4941
+#EXTINF:-1,[DE] ORF 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4942
+#EXTINF:-1,[DE] ORF SPORT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8530
+#EXTINF:-1,[DE] SRF 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1320
+#EXTINF:-1,[DE] SRF 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1321
+#EXTINF:-1,[DE] ROMANCE TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1815
+#EXTINF:-1,[DE] SKY HITS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1729
+#EXTINF:-1,[DE] TNT FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1807
+#EXTINF:-1,[DE] TNT COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8525
+#EXTINF:-1,[DE] SKY CINEMA +1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1079
+#EXTINF:-1,[DE] SKY CINEMA +24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/171
+#EXTINF:-1,[DE] SKY COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/82
+#EXTINF:-1,[DE] SKY EMOTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/170
+#EXTINF:-1,[DE] 13TH STREET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2080
+#EXTINF:-1,[DE] ATV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2583
+#EXTINF:-1,[DE] ATV 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2584
+#EXTINF:-1,[DE] ARTE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8520
+#EXTINF:-1,[DE] DISCOVERY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2091
+#EXTINF:-1,[DE] DISCOVERY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2092
+#EXTINF:-1,[DE] HISTORY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2113
+#EXTINF:-1,[DE] KINOWELT TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2121
+#EXTINF:-1,[DE] NATGEO WILD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2129
+#EXTINF:-1,[DE] NATIONAL GEOGRAPHIC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2132
+#EXTINF:-1,[DE] PULS 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2585
+#EXTINF:-1,[DE] SKY ATLANTIC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2151
+#EXTINF:-1,[DE] SKY CINEMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2153
+#EXTINF:-1,[DE] SKY CINEMA 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2156
+#EXTINF:-1,[DE] SKY CINEMA 24 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2158
+#EXTINF:-1,[DE] SKY CINEMA ACTION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2160
+#EXTINF:-1,[DE] SKY CINEMA FAMILY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2163
+#EXTINF:-1,[DE] SKY CINEMA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2154
+#EXTINF:-1,[DE] SKY CINEMA NOSTALGIE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2166
+#EXTINF:-1,[DE] SKY KRIMI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2167
+#EXTINF:-1,[DE] SYFY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2174
+#EXTINF:-1,[DE] TNT SERIE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2177
+#EXTINF:-1,[DE] TNT SERIE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2178
+#EXTINF:-1,[DE] ZDF INFO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2189
+#EXTINF:-1,[DE] SPIEGEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2916
+#EXTINF:-1,[DE] ANIMAL CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4560
+#EXTINF:-1,[DE] E! ENTERTANIMENT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4561
+#EXTINF:-1,[DE] MOTORVISION TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4558
+#EXTINF:-1,[DE] UNIVERSAL CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4559
+#EXTINF:-1,[DE] TOGGO PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7721
+#EXTINF:-1,[DE] ZEE ONE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2315
+#EXTINF:-1,[DE] SKY SELECT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/822
+#EXTINF:-1,[DE] SKY SELECT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/826
+#EXTINF:-1,[DE] SKY SELECT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/830
+#EXTINF:-1,[DE] SKY SELECT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/832
+#EXTINF:-1,[DE] SKY SELECT 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/834
+#EXTINF:-1,***** BOSANSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/698
+#EXTINF:-1,FEDERALNA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/42
+#EXTINF:-1,BHT SD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/49
+#EXTINF:-1,BHT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/281
+#EXTINF:-1,OBN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/14
+#EXTINF:-1,HAYAT BIH
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7
+#EXTINF:-1,HAYAT PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/286
+#EXTINF:-1,FACE TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/15
+#EXTINF:-1,NOVA TV BiH
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/12
+#EXTINF:-1,NOVA TV BiH HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7790
+#EXTINF:-1,O KANAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/50
+#EXTINF:-1,BN BIH
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/16
+#EXTINF:-1,BN SAT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1712
+#EXTINF:-1,RTRS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/63
+#EXTINF:-1,RTRS +
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2896
+#EXTINF:-1,MTV IGMAN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/192
+#EXTINF:-1,TELEVIZIJA 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1218
+#EXTINF:-1,RTV BIR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8800
+#EXTINF:-1,MEKKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3363
+#EXTINF:-1,IZVORNA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/485
+#EXTINF:-1,RTV ZENICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/265
+#EXTINF:-1,ALTERNATIVNA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/89
+#EXTINF:-1,TV SARAJEVO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/716
+#EXTINF:-1,HIT TV BRCKO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7780
+#EXTINF:-1,TV TK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/64
+#EXTINF:-1,TV SLON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3028
+#EXTINF:-1,ALFA TV SARAJEVO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1307
+#EXTINF:-1,N1 INFO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/804
+#EXTINF:-1,AL JAZZERA BALKANS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/61
+#EXTINF:-1,TV USK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3183
+#EXTINF:-1,RTV SANA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8812
+#EXTINF:-1,NTV IC KAKANJ
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4407
+#EXTINF:-1,K3 PRNJAVOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7833
+#EXTINF:-1,CITY TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4945
+#EXTINF:-1,***** HRVATSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/699
+#EXTINF:-1,NOVA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/31
+#EXTINF:-1,NOVA TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3187
+#EXTINF:-1,DOMA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/51
+#EXTINF:-1,DOMA TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3225
+#EXTINF:-1,RTL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/32
+#EXTINF:-1,RTL 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/11
+#EXTINF:-1,RTL LIVING
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/450
+#EXTINF:-1,HRT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/22
+#EXTINF:-1,HRT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/23
+#EXTINF:-1,HRT 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/188
+#EXTINF:-1,HRT 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/471
+#EXTINF:-1,HRT 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4562
+#EXTINF:-1,N1 HR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8518
+#EXTINF:-1,Z 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3150
+#EXTINF:-1,OSJECKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/659
+#EXTINF:-1,LAUDATO TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7704
+#EXTINF:-1,SLAVONSKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/660
+#EXTINF:-1,VINKOVACKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/661
+#EXTINF:-1,***** SRBIJANSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/700
+#EXTINF:-1,RTS 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/17
+#EXTINF:-1,RTS 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/18
+#EXTINF:-1,RTS 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3151
+#EXTINF:-1,RTS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2947
+#EXTINF:-1,RTS DRAMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8517
+#EXTINF:-1,NOVA S
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/98
+#EXTINF:-1,NOVA S HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3315
+#EXTINF:-1,B92
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/59
+#EXTINF:-1,HAPPY TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/407
+#EXTINF:-1,HAPPY TV 24 H
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3219
+#EXTINF:-1,PRVA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/19
+#EXTINF:-1,PRVA PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/5
+#EXTINF:-1,PRVA WORLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2895
+#EXTINF:-1,PRVA MAX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2913
+#EXTINF:-1,PRVA KICK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4566
+#EXTINF:-1,PRVA FILES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8810
+#EXTINF:-1,RTV NOVI PAZAR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/354
+#EXTINF:-1,SANDZAK TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/946
+#EXTINF:-1,SANDZACKA TV MREZA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8526
+#EXTINF:-1,BELLE AMIE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8786
+#EXTINF:-1,BALKAN TRIP
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8811
+#EXTINF:-1,N1 SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7784
+#EXTINF:-1,KURIR TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8813
+#EXTINF:-1,SOS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1029
+#EXTINF:-1,TV ISTOK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8808
+#EXTINF:-1,RTV VOJVODINA 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1713
+#EXTINF:-1,RTV VOJVODINA 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1714
+#EXTINF:-1,PALMA PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1715
+#EXTINF:-1,STUDIO B
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3030
+#EXTINF:-1,YU PLANET BEC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7830
+#EXTINF:-1,***** CRNOGORSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4263
+#EXTINF:-1,RTCG 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4264
+#EXTINF:-1,RTCG 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4265
+#EXTINF:-1,RTCG SAT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/280
+#EXTINF:-1,PRVA CG
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4267
+#EXTINF:-1,NOVA M
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/857
+#EXTINF:-1,VIJESTI CG
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2831
+#EXTINF:-1,TV 777 PODGORICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4266
+#EXTINF:-1,***** FILMSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/704
+#EXTINF:-1,CRO MAX SELECT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8791
+#EXTINF:-1,CRO MAX SELECT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8792
+#EXTINF:-1,CRO MAX SELECT 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8793
+#EXTINF:-1,CRO MAX SELECT 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8794
+#EXTINF:-1,CRO MAX SELECT 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8795
+#EXTINF:-1,CRO MAX SELECT 6
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8796
+#EXTINF:-1,CRO MAX SELECT 7
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8797
+#EXTINF:-1,CRO MAX SELECT 8
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8798
+#EXTINF:-1,CRO MAX SELECT 9
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8799
+#EXTINF:-1,FOX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/66
+#EXTINF:-1,FOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4412
+#EXTINF:-1,FOX LIFE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/461
+#EXTINF:-1,FOX LIFE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4415
+#EXTINF:-1,FOX CRIME
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/462
+#EXTINF:-1,FOX CRIME HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4414
+#EXTINF:-1,FOX MOVIES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/460
+#EXTINF:-1,FOX MOVIES HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4413
+#EXTINF:-1,FILM KLUB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8804
+#EXTINF:-1,SCI-FI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/467
+#EXTINF:-1,HBO 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/47
+#EXTINF:-1,HBO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/48
+#EXTINF:-1,HBO 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1195
+#EXTINF:-1,AXN ADRIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1716
+#EXTINF:-1,AMC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2942
+#EXTINF:-1,CINESTAR TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/465
+#EXTINF:-1,CINESTAR TV ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/470
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/52
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/53
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3379
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3380
+#EXTINF:-1,CINESTAR FANTASY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3186
+#EXTINF:-1,CINEMAX 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/21
+#EXTINF:-1,CINEMAX 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/187
+#EXTINF:-1,CINEMANIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3309
+#EXTINF:-1,DIVA CHANEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3313
+#EXTINF:-1,KINO TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3312
+#EXTINF:-1,TV 1000
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/466
+#EXTINF:-1,KLASIK TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/55
+#EXTINF:-1,M FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1717
+#EXTINF:-1,CRIME & INVESTGATION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1718
+#EXTINF:-1,RTL CRIME
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1740
+#EXTINF:-1,RTL PASSION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1719
+#EXTINF:-1,FILM BOX EXTRA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2949
+#EXTINF:-1,FILM BOX PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2950
+#EXTINF:-1,SUPERSTAR TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8806
+#EXTINF:-1,***** DJECIJI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/702
+#EXTINF:-1,HAYATOVCI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/20
+#EXTINF:-1,RTL KOCKICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/68
+#EXTINF:-1,PINK KIDS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/71
+#EXTINF:-1,MINIMAX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/358
+#EXTINF:-1,MINI ULTRA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1720
+#EXTINF:-1,ULTRA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/433
+#EXTINF:-1,NICKELEDEON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/359
+#EXTINF:-1,MINI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1721
+#EXTINF:-1,NICK JR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1722
+#EXTINF:-1,BANG BANG
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2317
+#EXTINF:-1,CUFO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2318
+#EXTINF:-1,JUNIOR TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2319
+#EXTINF:-1,DA VINCHI LEARNING
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8805
+#EXTINF:-1,BOOMERANG
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7699
+#EXTINF:-1,***** PINK MEDIA KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/710
+#EXTINF:-1,PINK MEDIA BH
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7781
+#EXTINF:-1,PINK MEDIA M
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7792
+#EXTINF:-1,PINK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/36
+#EXTINF:-1,PINK 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/46
+#EXTINF:-1,PINK 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1723
+#EXTINF:-1,PINK PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/62
+#EXTINF:-1,PINK EXTRA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/446
+#EXTINF:-1,PINK FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/45
+#EXTINF:-1,PINK WESTERN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/67
+#EXTINF:-1,PINK CLASSIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/859
+#EXTINF:-1,PINK STYLE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4816
+#EXTINF:-1,PINK FAMILY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4815
+#EXTINF:-1,PINK PREMIUM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/26
+#EXTINF:-1,PINK THRILLERR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/439
+#EXTINF:-1,PINK MOVIES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/856
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/438
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/10
+#EXTINF:-1,PINK ROMANCE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/9
+#EXTINF:-1,PINK HOROR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/435
+#EXTINF:-1,PINK COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/189
+#EXTINF:-1,PINK PEDIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/436
+#EXTINF:-1,PINK SOAP
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/437
+#EXTINF:-1,PINK REALITY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4
+#EXTINF:-1,PINK KUVAR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/472
+#EXTINF:-1,PINK ZABAVA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/368
+#EXTINF:-1,PINK ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1724
+#EXTINF:-1,PINK SERIJE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1725
+#EXTINF:-1,PINK WORLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1726
+#EXTINF:-1,PINK WORLD CINEMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3325
+#EXTINF:-1,PINK LOL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3357
+#EXTINF:-1,ZADRUGA 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8802
+#EXTINF:-1,ZADRUGA 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8803
+#EXTINF:-1,***** DOKUMENTARNI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/705
+#EXTINF:-1,NATGEO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/24
+#EXTINF:-1,NATGEO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4416
+#EXTINF:-1,NATGEO WILD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1174
+#EXTINF:-1,NATGEO WILD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4417
+#EXTINF:-1,ANIMAL PLANET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/60
+#EXTINF:-1,DISCOVERY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/25
+#EXTINF:-1,DISCOVERY SCIENCE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1212
+#EXTINF:-1,ID DISCOVERY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4245
+#EXTINF:-1,24 KITCHEN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/451
+#EXTINF:-1,HISTORY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/463
+#EXTINF:-1,HISTORY CHANNEL 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3222
+#EXTINF:-1,VIASAT HISTORY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3221
+#EXTINF:-1,VIASAT NATURE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3220
+#EXTINF:-1,VIASAT EXPLORER
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4480
+#EXTINF:-1,TLC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/401
+#EXTINF:-1,TRAVEL CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3025
+#EXTINF:-1,DOKUTV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8784
+#EXTINF:-1,LOV & RIBOLOV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/191
+#EXTINF:-1,ID XTRA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/369
+#EXTINF:-1,DOCU BOX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3152
+#EXTINF:-1,DA VINCI LEARNING
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3314
+#EXTINF:-1,ENTERTAINMENT +
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3386
+#EXTINF:-1,CBS REALITY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4408
+#EXTINF:-1,***** MUZICKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/703
+#EXTINF:-1,GRAND TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/6
+#EXTINF:-1,GRAND 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1711
+#EXTINF:-1,DM SAT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/44
+#EXTINF:-1,PINK FOLK 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/69
+#EXTINF:-1,PINK FOLK 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/434
+#EXTINF:-1,PINK MUSIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/576
+#EXTINF:-1,PINK MUSIC 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2914
+#EXTINF:-1,BN MUSIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/97
+#EXTINF:-1,OTV VALENTINO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/190
+#EXTINF:-1,HAYAT FOLK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/357
+#EXTINF:-1,HAYAT MUSIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/366
+#EXTINF:-1,TV GLAS DRINE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1028
+#EXTINF:-1,SEHARA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3224
+#EXTINF:-1,SEVDAH TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3223
+#EXTINF:-1,DUGA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1461
+#EXTINF:-1,CMC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/58
+#EXTINF:-1,VH 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/956
+#EXTINF:-1,MTV 80s
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/984
+#EXTINF:-1,BALKANIKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1824
+#EXTINF:-1,SUTEL TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1162
+#EXTINF:-1,ROMA TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3246
+#EXTINF:-1,TARAF TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4431
+#EXTINF:-1,FEN TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2915
+#EXTINF:-1,JUGOTON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2898
+#EXTINF:-1,A 1 BALKAN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3056
+#EXTINF:-1,MOJ KANAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3184
+#EXTINF:-1,MTV ADRIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3318
+#EXTINF:-1,IDJ TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3362
+#EXTINF:-1,PLANETA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4565
+#EXTINF:-1,CITY PLAY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7720
+#EXTINF:-1,KCN 1 KOPERNIKUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2958
+#EXTINF:-1,KCN 2 KOPERNIKUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2959
+#EXTINF:-1,KCN 3 KOPERNIKUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2960
+#EXTINF:-1,***** SPORTSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/709
+#EXTINF:-1,NOVA SPORT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8790
+#EXTINF:-1,ARENA 1 SR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/27
+#EXTINF:-1,ARENA 2 SR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3366
+#EXTINF:-1,ARENA 3 SR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/29
+#EXTINF:-1,ARENA 4 SR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/30
+#EXTINF:-1,ARENA 5 SR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1739
+#EXTINF:-1,ARENA 1 HD CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/183
+#EXTINF:-1,ARENA 2 HD CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/184
+#EXTINF:-1,ARENA 3 HD CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/185
+#EXTINF:-1,ARENA 4 HD CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/186
+#EXTINF:-1,ARENA 5 HD CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/854
+#EXTINF:-1,PLANET SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7788
+#EXTINF:-1,PLANET SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7789
+#EXTINF:-1,PLANET SPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7828
+#EXTINF:-1,PLANET SPORT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7831
+#EXTINF:-1,PLANET SPORT 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7832
+#EXTINF:-1,SK HD SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8807
+#EXTINF:-1,SPORTKLUB 1 HD SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/373
+#EXTINF:-1,SPORTKLUB 2 HD SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/372
+#EXTINF:-1,SPORTKLUB 3 HD SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/371
+#EXTINF:-1,SPORTKLUB 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4409
+#EXTINF:-1,SPORTKLUB 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4410
+#EXTINF:-1,SPORTKLUB 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4411
+#EXTINF:-1,SPORTKLUB 1 SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/33
+#EXTINF:-1,SPORTKLUB 2 SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/34
+#EXTINF:-1,SPORTKLUB 3 SRB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/35
+#EXTINF:-1,SPORTKLUB 1 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2943
+#EXTINF:-1,SPORTKLUB 2 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2944
+#EXTINF:-1,SPORTKLUB 3 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2945
+#EXTINF:-1,SPORTKLUB 4 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2910
+#EXTINF:-1,SPORTKLUB 5 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2911
+#EXTINF:-1,SPORTKLUB 6 CRO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2912
+#EXTINF:-1,EUROSPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/56
+#EXTINF:-1,EUROSPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/57
+#EXTINF:-1,SPORTSKA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2941
+#EXTINF:-1,HN TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4385
+#EXTINF:-1,FIGHT CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2007
+#EXTINF:-1,[DE] DAZN 1 Bar HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7778
+#EXTINF:-1,[DE] DAZN 2 Bar HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7779
+#EXTINF:-1,SKY SPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/154
+#EXTINF:-1,SKY SPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/155
+#EXTINF:-1,SKY BUNDESLIGA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/86
+#EXTINF:-1,SKY BUNDESLIGA 2 Only Live
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1735
+#EXTINF:-1,SKY BUNDESLIGA 3 Only Live
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1736
+#EXTINF:-1,SKY BUNDESLIGA 4 Only Live
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1737
+#EXTINF:-1,SKY BUNDESLIGA 5 Only Live
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1738
+#EXTINF:-1,[DE] BUNDESLIGA 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3006
+#EXTINF:-1,[DE] BUNDESLIGA 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3007
+#EXTINF:-1,[DE] BUNDESLIGA 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3008
+#EXTINF:-1,[DE] BUNDESLIGA 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3009
+#EXTINF:-1,[DE] BUNDESLIGA 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3010
+#EXTINF:-1,[DE] SKY SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2196
+#EXTINF:-1,[DE] SKY SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2198
+#EXTINF:-1,[DE] EUROSPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2101
+#EXTINF:-1,[DE] EUROSPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4231
+#EXTINF:-1,[DE] EUROSPORT 2 HD EXTRA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4479
+#EXTINF:-1,[DE] SKY SPORT AUSTRIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2194
+#EXTINF:-1,[DE] SKY SPORT NEWS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2193
+#EXTINF:-1,[DE] SPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2229
+#EXTINF:-1,[DE] SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4943
+#EXTINF:-1,[DE] SPORT 1+ HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3332
+#EXTINF:-1,[DE]  SPORTDIGITAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3336
+#EXTINF:-1,[SWE] VIASAT SPORT PREMIUM HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/997
+#EXTINF:-1,[SWE] VIASAT FOTBOLL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/474
+#EXTINF:-1,[SWE] VIASAT SPORT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/991
+#EXTINF:-1,[PT] SPORT TV 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2973
+#EXTINF:-1,[PT] SPORT TV 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2972
+#EXTINF:-1,[PT] SPORT TV 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2971
+#EXTINF:-1,[PT] SPORT TV 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2970
+#EXTINF:-1,[PT] SPORT TV 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2969
+#EXTINF:-1,[ALB] SUPERSPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/901
+#EXTINF:-1,[ALB] SUPERSPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/902
+#EXTINF:-1,[ALB] SUPERSPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/903
+#EXTINF:-1,[ALB] SUPERSPORT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3278
+#EXTINF:-1,[ALB] SUPERSPORT 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2917
+#EXTINF:-1,[ALB] TRING SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/986
+#EXTINF:-1,[ALB] TRING SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/987
+#EXTINF:-1,[ALB] TRING SPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/988
+#EXTINF:-1,[ALB] TRING SPORT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/989
+#EXTINF:-1,[ALB] TRING SPORT NEWS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/990
+#EXTINF:-1,[ALB] KUJTESA SPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3328
+#EXTINF:-1,[ALB] KUJTESA SPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3329
+#EXTINF:-1,[ALB] KUJTESA SPORT 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3330
+#EXTINF:-1,[ALB] KUJTESA SPORT 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3331
+#EXTINF:-1,[ALB] SUPER SPORT KOSOVA 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3326
+#EXTINF:-1,[ALB] SUPER SPORT KOSOVA 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3327
+#EXTINF:-1,[FR] BEIN SPORTS 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/713
+#EXTINF:-1,[FR] BEIN SPORTS 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/714
+#EXTINF:-1,[FR] BEIN SPORTS 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2305
+#EXTINF:-1,[FR] CANAL+ SPORT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7827
+#EXTINF:-1,[AR] BEINSPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2662
+#EXTINF:-1,[AR] BEINSPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2664
+#EXTINF:-1,[AR] BEINSPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2666
+#EXTINF:-1,[AR] BEINSPORT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2668
+#EXTINF:-1,[AR] BEINSPORT 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2670
+#EXTINF:-1,[AR] BEINSPORT 6 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2672
+#EXTINF:-1,[AR] BEINSPORT 7 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2673
+#EXTINF:-1,[AR] BEINSPORT 8 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2674
+#EXTINF:-1,[AR] BEINSPORT 9 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2675
+#EXTINF:-1,[AR] BEINSPORT 10 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2676
+#EXTINF:-1,[UK] SKY SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2609
+#EXTINF:-1,[UK] SKY SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2610
+#EXTINF:-1,[UK] SKY SPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2611
+#EXTINF:-1,[UK] SKY SPORT 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2612
+#EXTINF:-1,[UK] SKY SPORT 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2613
+#EXTINF:-1,[UK] SKY SPORTS F1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2470
+#EXTINF:-1,[UK] BOX NATION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3335
+#EXTINF:-1,[IT] SKY SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2412
+#EXTINF:-1,[IT] SKY SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2413
+#EXTINF:-1,[IT] SKY SPORT 24 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2411
+#EXTINF:-1,[IT] SPORT F1HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2062
+#EXTINF:-1,[IT] PREMIUM SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2427
+#EXTINF:-1,[IT] PREMIUM SPORT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2426
+#EXTINF:-1,[IT] SKY SPORT MOTOGP HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2417
+#EXTINF:-1,[IT] FOX SPORTS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2415
+#EXTINF:-1,[IT] SKY CALCIO 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2420
+#EXTINF:-1,[IT] SKY CALCIO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2421
+#EXTINF:-1,[IT] PREMIUM CALCIO 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2429
+#EXTINF:-1,[IT] PREMIUM CALCIO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2430
+#EXTINF:-1,[NL] EUROSPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1996
+#EXTINF:-1,[NL] FOX SPORTS 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1990
+#EXTINF:-1,[NL] FOX SPORTS 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1989
+#EXTINF:-1,[NL] FOX SPORTS 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1988
+#EXTINF:-1,[NL] FOX SPORTS 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3349
+#EXTINF:-1,[NL] FOX SPORTS 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3350
+#EXTINF:-1,[TR] BEIN SPORTS 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1912
+#EXTINF:-1,[TR] BEIN SPORTS 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1913
+#EXTINF:-1,[TR] BEIN SPORTS 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1914
+#EXTINF:-1,[TR] SMARTSPOR 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3355
+#EXTINF:-1,[TR] TIVIBU SPOR 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3351
+#EXTINF:-1,[TR] TIVIBU SPOR 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3352
+#EXTINF:-1,[TR] TIVIBU SPOR 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3353
+#EXTINF:-1,[SWE] C MORE SPORT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/603
+#EXTINF:-1,[SWE] TV 4 SPORT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1002
+#EXTINF:-1,[SWE] VIASAT MOTOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/992
+#EXTINF:-1,[RO] DOLCE SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2968
+#EXTINF:-1,[RO] DIGI SPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3337
+#EXTINF:-1,[RO] DIGI SPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3338
+#EXTINF:-1,[RO] DIGI SPORT 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3339
+#EXTINF:-1,[RO] DIGI SPORT 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3340
+#EXTINF:-1,[USA] SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3333
+#EXTINF:-1,[DK] EUROSPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4228
+#EXTINF:-1,[DK] EUROSPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4229
+#EXTINF:-1,[ES] BEIN SPORTS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2702
+#EXTINF:-1,[ES] MOVISTAR FUDBOL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4484
+#EXTINF:-1,[ES] BEIN SPORTS LA LIGA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4483
+#EXTINF:-1,[ES] MOVISTAR MOTO GP HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4487
+#EXTINF:-1,[ES] MOVISTAR DEPORTES 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4485
+#EXTINF:-1,[ES] CANAL + DEPORTES 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3347
+#EXTINF:-1,[ES] MOVISTAR DEPORTES 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4486
+#EXTINF:-1,***** MAKEDONSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/927
+#EXTINF:-1,[MK] SITEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/923
+#EXTINF:-1,[MK] KANAL 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/922
+#EXTINF:-1,[MK] TELMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/925
+#EXTINF:-1,[MK] ALFA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/921
+#EXTINF:-1,[MK] MRT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1707
+#EXTINF:-1,[MK] MRT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1708
+#EXTINF:-1,[MK] TV 24 
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/926
+#EXTINF:-1,[MK] KANAL 5+
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3252
+#EXTINF:-1,[MK] NASA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3257
+#EXTINF:-1,[MK] SONCE TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3258
+#EXTINF:-1,[MK] TV+
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3259
+#EXTINF:-1,***** SLOVENSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2940
+#EXTINF:-1,[SLO] SLO 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2939
+#EXTINF:-1,[SLO] SLO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2938
+#EXTINF:-1,[SLO] PLANET TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2932
+#EXTINF:-1,[SLO] POP KINO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2934
+#EXTINF:-1,[SLO] POP TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2936
+#EXTINF:-1,[SLO] VOYO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2929
+#EXTINF:-1,[SLO] KANAL A
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2998
+#EXTINF:-1,[SLO] FOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3052
+#EXTINF:-1,[SLO] FOX MOVIES HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3053
+#EXTINF:-1,[SLO] POP OTO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3051
+#EXTINF:-1,***** SVEDSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/715
+#EXTINF:-1,[SWE] SVT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1006
+#EXTINF:-1,[SWE] SVT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1007
+#EXTINF:-1,[SWE] TV 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1009
+#EXTINF:-1,[SWE] TV 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/606
+#EXTINF:-1,[SWE] TV 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/607
+#EXTINF:-1,[SWE] TV 6
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/608
+#EXTINF:-1,[SWE] TV 8
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/982
+#EXTINF:-1,[SWE] TV 10
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1084
+#EXTINF:-1,[SWE] TV 11
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1085
+#EXTINF:-1,[SWE] TV 12
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1086
+#EXTINF:-1,[SWE] TV 4 COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/977
+#EXTINF:-1,[SWE] KANAL 9
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4819
+#EXTINF:-1,[SWE] SJUAN TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1207
+#EXTINF:-1,[SWE] NICK JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1010
+#EXTINF:-1,[SWE] C MORE FIRTS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/690
+#EXTINF:-1,[SWE] C MORE HITS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/753
+#EXTINF:-1,[SWE] C MORE STARS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/980
+#EXTINF:-1,[SWE] C MORE SERIES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/754
+#EXTINF:-1,[SWE] C MORE FOTBOLL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/689
+#EXTINF:-1,[SWE] C MORE TENIS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/978
+#EXTINF:-1,[SWE] C MORE HOCKEY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/976
+#EXTINF:-1,[SWE] C MORE GOLF
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1018
+#EXTINF:-1,[SWE] C MORE LIVE 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/998
+#EXTINF:-1,[SWE] C MORE LIVE 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/999
+#EXTINF:-1,[SWE] C MORE LIVE 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1000
+#EXTINF:-1,[SWE] C MORE LIVE 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1001
+#EXTINF:-1,[SWE] VIASAT HOCKEY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1169
+#EXTINF:-1,[SWE] VIASAT FILM ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1088
+#EXTINF:-1,[SWE] VIASAT FILM PREMIERE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1154
+#EXTINF:-1,[SWE] VIASAT FILM FAMILY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/981
+#EXTINF:-1,[SWE] VIASAT FILM HITS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/983
+#EXTINF:-1,[SWE] VIASAT EXPLORE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1165
+#EXTINF:-1,[SWE] NATGEO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1166
+#EXTINF:-1,[SWE] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2909
+#EXTINF:-1,[SWE] DISNEY CHANEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4432
+#EXTINF:-1,[SWE] CARTOON NETWORK SWE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1167
+#EXTINF:-1,***** HUNGARY *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7744
+#EXTINF:-1,[HU] BUDAPEST
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7740
+#EXTINF:-1,[HU] DIGI SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7727
+#EXTINF:-1,[HU] DIGI SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7726
+#EXTINF:-1,[HU] DIGI SPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7725
+#EXTINF:-1,[HU] FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7739
+#EXTINF:-1,[HU] FILMBOX FAMILY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7738
+#EXTINF:-1,[HU] FILMBOX PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7737
+#EXTINF:-1,[HU] FILMBOX PREMIUM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7736
+#EXTINF:-1,[HU] HBO 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7735
+#EXTINF:-1,[HU] HBO 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7734
+#EXTINF:-1,[HU] LIGHT CHANNEL TV 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7733
+#EXTINF:-1,[HU] M1 HUNGARY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7743
+#EXTINF:-1,[HU] M2 HUNGARY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7742
+#EXTINF:-1,[HU] MARKIZA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7732
+#EXTINF:-1,[HU] RTL KLUB
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7731
+#EXTINF:-1,[HU] SPORT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7729
+#EXTINF:-1,[HU] SPORT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7728
+#EXTINF:-1,[HU] SPORT M
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7730
+#EXTINF:-1,[HU] TV 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7724
+#EXTINF:-1,***** DANSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4230
+#EXTINF:-1,[DK] DR 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4213
+#EXTINF:-1,[DK] DR 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4214
+#EXTINF:-1,[DK] DR 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4215
+#EXTINF:-1,[DK] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4216
+#EXTINF:-1,[DK] DISCOVERY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4221
+#EXTINF:-1,[DK] DISNEY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4224
+#EXTINF:-1,[DK] KANAL 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4219
+#EXTINF:-1,[DK] KANAL 9
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4220
+#EXTINF:-1,[DK] MTV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4227
+#EXTINF:-1,[DK] ANIMAL PLANET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4222
+#EXTINF:-1,[DK] NICK JR.
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4223
+#EXTINF:-1,[DK] TV2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4217
+#EXTINF:-1,[DK] TV3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4218
+#EXTINF:-1,[DK] VIASAT FILM ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4226
+#EXTINF:-1,***** NORVESKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7767
+#EXTINF:-1,[NOR] NRK 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7760
+#EXTINF:-1,[NOR] NRK 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7761
+#EXTINF:-1,[NOR] NRK SUPER
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7762
+#EXTINF:-1,[NOR] TV NORGE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7763
+#EXTINF:-1,[NOR] TV NORGE 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7764
+#EXTINF:-1,[NOR] TV NORGE 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7766
+#EXTINF:-1,[NOR] TV2 ZEBRA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7765
+#EXTINF:-1,***** ITALIJANSKI KANALI  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1090
+#EXTINF:-1,[IT] RAI PREMIUM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2034
+#EXTINF:-1,[IT] IRIS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1116
+#EXTINF:-1,[IT] RETE 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2016
+#EXTINF:-1,[IT] LA 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2022
+#EXTINF:-1,[IT] LA 7
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2023
+#EXTINF:-1,[IT] MEDIASET ITALIA 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2018
+#EXTINF:-1,[IT] MEDIASET ITALIA 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2019
+#EXTINF:-1,[IT] BOING
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2060
+#EXTINF:-1,[IT] SKY CINEMA HIT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2027
+#EXTINF:-1,[IT] PREMIUM CINEMA ENERGY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2043
+#EXTINF:-1,[IT] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2059
+#EXTINF:-1,[IT] DISCOVERY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2053
+#EXTINF:-1,[IT] DISCOVERY SCI HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2052
+#EXTINF:-1,[IT] DISNEY XD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2058
+#EXTINF:-1,[IT] HISTORY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2051
+#EXTINF:-1,[IT] SKY SUPER CALCIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2066
+#EXTINF:-1,[IT] ANIMAL PLANET HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2445
+#EXTINF:-1,[IT] AXN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2372
+#EXTINF:-1,[IT] CANALE 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2348
+#EXTINF:-1,[IT] CARTOONITO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2339
+#EXTINF:-1,[IT] CIELO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2446
+#EXTINF:-1,[IT] DISNEY JUNIOR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2343
+#EXTINF:-1,[IT] FOX COMEDY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2381
+#EXTINF:-1,[IT] FOX CRIME HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2384
+#EXTINF:-1,[IT] FOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2377
+#EXTINF:-1,[IT] FOX LIFE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2383
+#EXTINF:-1,[IT] GIALLO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2388
+#EXTINF:-1,[IT] ITALIA 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2347
+#EXTINF:-1,[IT] JUVENTUS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2434
+#EXTINF:-1,[IT] K2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2334
+#EXTINF:-1,[IT] MANGA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2336
+#EXTINF:-1,[IT] MEDIASET EXTRA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2353
+#EXTINF:-1,[IT] MILAN CHANNEL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2435
+#EXTINF:-1,[IT] NATGEO PEOPLE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2438
+#EXTINF:-1,[IT] PREMIUM ACTION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2398
+#EXTINF:-1,[IT] PREMIUM CINEMA 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2396
+#EXTINF:-1,[IT] PREMIUM CINEMA COMEDY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2400
+#EXTINF:-1,[IT] PREMIUM CINEMA ENERGY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2402
+#EXTINF:-1,[IT] PREMIUM JOY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2405
+#EXTINF:-1,[IT] PREMIUM STORIES HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2407
+#EXTINF:-1,[IT] PREMIUM STUDIO UNIVERSAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2410
+#EXTINF:-1,[IT] RAI 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2326
+#EXTINF:-1,[IT] RAI 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2327
+#EXTINF:-1,[IT] RAI 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2328
+#EXTINF:-1,[IT] RAI 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2329
+#EXTINF:-1,[IT] RAI 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2330
+#EXTINF:-1,[IT] RAI MOVIE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2331
+#EXTINF:-1,[IT] RAI PREMIUM HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2332
+#EXTINF:-1,[IT] REAL TIME HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2391
+#EXTINF:-1,[IT] ROMA TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2437
+#EXTINF:-1,[IT] RSI LA1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2392
+#EXTINF:-1,[IT] RSI LA2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2393
+#EXTINF:-1,[IT] SKY ATLANTIC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2386
+#EXTINF:-1,[IT] SKY CINEMA 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2354
+#EXTINF:-1,[IT] SKY CINEMA 24 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2356
+#EXTINF:-1,[IT] SKY CINEMA CLASSICS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2369
+#EXTINF:-1,[IT] SKY CINEMA COMEDY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2359
+#EXTINF:-1,[IT] SKY CINEMA FAMILY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2361
+#EXTINF:-1,[IT] SKY CINEMA MAX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2363
+#EXTINF:-1,[IT] SKY CINEMA PASSION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2365
+#EXTINF:-1,[IT] SKY UNO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2371
+#EXTINF:-1,***** FRANCUSKI KANALI ******
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1774
+#EXTINF:-1,[FR] RMC DECOUVERTE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8521
+#EXTINF:-1,[FR] RMC SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8522
+#EXTINF:-1,[FR] RMC SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8523
+#EXTINF:-1,[FR] RMC SPORT 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8524
+#EXTINF:-1,[FR] FRANCE INFO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7769
+#EXTINF:-1,[FR] FRANCE 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7770
+#EXTINF:-1,[FR] FRANCE 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7771
+#EXTINF:-1,[FR] FRANCE 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1802
+#EXTINF:-1,[FR] 13EME RUE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1800
+#EXTINF:-1,[FR] ARTE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1799
+#EXTINF:-1,[FR] AB 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7834
+#EXTINF:-1,[FR] CANAL+ CINEMA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1781
+#EXTINF:-1,[FR] CANAL+ DECALE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1782
+#EXTINF:-1,[FR] CANAL+ FAMILY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1780
+#EXTINF:-1,[FR] COMEDIE+ HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1776
+#EXTINF:-1,[FR] CANAL+ SERIES HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1783
+#EXTINF:-1,[FR] CINE+ PREMIER HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1777
+#EXTINF:-1,[FR] CINE+ EMOTION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1779
+#EXTINF:-1,[FR] CINE+ FRISSON HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1778
+#EXTINF:-1,[FR] CANAL+ HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1775
+#EXTINF:-1,[FR] RTS DEUX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7758
+#EXTINF:-1,[FR] RTS UN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7757
+#EXTINF:-1,[FR] RTL 9
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7777
+#EXTINF:-1,[FR] OCS CHOC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1789
+#EXTINF:-1,[FR] OCS MAX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1787
+#EXTINF:-1,[FR] SYFY UNIVERSAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1795
+#EXTINF:-1,[FR] M6 FR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1821
+#EXTINF:-1,[FR] PARIS PREMIERE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1785
+#EXTINF:-1,[FR] 6TER
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1836
+#EXTINF:-1,[FR] GULLI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1833
+#EXTINF:-1,[FR] TFX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1834
+#EXTINF:-1,[FR] LEQUIPE 21
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1835
+#EXTINF:-1,[FR] MANGAS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1843
+#EXTINF:-1,[FR] NRJ 12
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1831
+#EXTINF:-1,[FR] TEVA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1840
+#EXTINF:-1,[FR] TMC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1830
+#EXTINF:-1,[FR] TF1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4434
+#EXTINF:-1,[FR] ELLE GIRL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7773
+#EXTINF:-1,[FR] C8
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7772
+#EXTINF:-1,[FR] E!
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7768
+#EXTINF:-1,[FR] NATIONAL GEO WILLD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1790
+#EXTINF:-1,[FR] DISCOVERY SCIENCE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1791
+#EXTINF:-1,[FR] DISNEY XD FR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1806
+#EXTINF:-1,[FR] CARTOON NETWORK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3848
+#EXTINF:-1,***** TURSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1828
+#EXTINF:-1,[TR] TRT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1938
+#EXTINF:-1,[TR] SHOW TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3375
+#EXTINF:-1,[TR] BEIN MOVIES PREMIERE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1905
+#EXTINF:-1,[TR] BEIN MOVIES ACTION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1903
+#EXTINF:-1,[TR] FILMBOX AKSIYON HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1904
+#EXTINF:-1,[TR] BEIN MOVIES FAMILY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1902
+#EXTINF:-1,[TR] BEIN MOVIES FESTIVAL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1901
+#EXTINF:-1,[TR] FILMBOX FANTASTIKHD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1900
+#EXTINF:-1,[TR] DA VINCI HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1925
+#EXTINF:-1,[TR] DIGIMAX 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1877
+#EXTINF:-1,[TR] DIGIMAX 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1940
+#EXTINF:-1,[TR] FILMBOX ANIMATION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1879
+#EXTINF:-1,[TR] DISCOVERY CHANNEL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1922
+#EXTINF:-1,[TR] BEIN MOVIES TURK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1897
+#EXTINF:-1,[TR] NATIONAL GEOGRAPHIC WILD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1920
+#EXTINF:-1,[TR] BEIN BOX OFFICE 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1880
+#EXTINF:-1,[TR] BEIN BOX OFFICE 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1881
+#EXTINF:-1,[TR] BEIN BOX OFFICE 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1882
+#EXTINF:-1,[TR] YE?ILCAM HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1876
+#EXTINF:-1,[TR] SINETIVI HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3371
+#EXTINF:-1,[TR] SINETIVI 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3372
+#EXTINF:-1,[TR] SINETIVI ADRENALIN 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1894
+#EXTINF:-1,[TR] SINETIVI KARNAVAL 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1892
+#EXTINF:-1,[TR] A2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1857
+#EXTINF:-1,[TR] ATV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1848
+#EXTINF:-1,[TR] BEYAZ TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1855
+#EXTINF:-1,[TR] FOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1852
+#EXTINF:-1,[TR] FOX CRIME HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3280
+#EXTINF:-1,[TR] HABER TURK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1869
+#EXTINF:-1,[TR] KANAL D HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1851
+#EXTINF:-1,[TR] MELTEM TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1935
+#EXTINF:-1,[TR] STAR TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1849
+#EXTINF:-1,[TR] TGRT HABER HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1872
+#EXTINF:-1,[TR] TRT AVAZ HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1862
+#EXTINF:-1,[TR] TRT HABER HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1865
+#EXTINF:-1,[TR] TRT MUZIK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1933
+#EXTINF:-1,[TR] TRT WORLD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1927
+#EXTINF:-1,[TR] TRT KURDI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2859
+#EXTINF:-1,[TR] TV 8 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1853
+#EXTINF:-1,[TR] TV 8.5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1858
+#EXTINF:-1,[TR] ULKE TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1871
+#EXTINF:-1,[TR] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2256
+#EXTINF:-1,[TR] KANAL 7 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2279
+#EXTINF:-1,[TR] BABYTV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2258
+#EXTINF:-1,[TR] CAPTAIN MOVIES 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2300
+#EXTINF:-1,[TR] CAPTAIN MOVIES 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2301
+#EXTINF:-1,[TR] CAPTAIN MOVIES 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2302
+#EXTINF:-1,[TR] HISTORY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2234
+#EXTINF:-1,[TR] BENGU TURK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2861
+#EXTINF:-1,[TR] A SPOR HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2901
+#EXTINF:-1,[TR] BJK TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2905
+#EXTINF:-1,[TR] FB TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2903
+#EXTINF:-1,[TR] A HABER TURK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3297
+#EXTINF:-1,[TR] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3295
+#EXTINF:-1,[TR] DISNEY CHANEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3294
+#EXTINF:-1,[TR] KANAL 24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3296
+#EXTINF:-1,[TR] NAT GEO PEOPLE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3299
+#EXTINF:-1,[TR] NATIONAL GEO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3298
+#EXTINF:-1,[TR] SEMERKAND TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3301
+#EXTINF:-1,***** NEDERLAND CHANNELS *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1846
+#EXTINF:-1,[NL] NATIONAL GEOGRAPHIC WILLD HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2004
+#EXTINF:-1,[NL] CRIME & INVESTIGATION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2002
+#EXTINF:-1,[NL] E! ENTERTAINEMENT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1998
+#EXTINF:-1,[NL] FILM 1 PREMIERE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1992
+#EXTINF:-1,[NL] NATIONAL GEOGRAPHIC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1983
+#EXTINF:-1,[NL] NATIONAL GEOGRAPHIC WILD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1982
+#EXTINF:-1,[NL] NICKTOONS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1978
+#EXTINF:-1,[NL] NPO 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1977
+#EXTINF:-1,[NL] NPO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1975
+#EXTINF:-1,[NL] NPO 3 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1974
+#EXTINF:-1,[NL] NPO 101
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1976
+#EXTINF:-1,[NL] RTL TELEKIDS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1969
+#EXTINF:-1,[NL] CRIME & INVESTGATION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3282
+#EXTINF:-1,[NL] DISNEY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3283
+#EXTINF:-1,[NL] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3284
+#EXTINF:-1,[NL] NET 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3285
+#EXTINF:-1,[NL] NICKTOONS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3286
+#EXTINF:-1,[NL] RTL 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3287
+#EXTINF:-1,[NL] RTL 5 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1972
+#EXTINF:-1,[NL] RTL 7 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3288
+#EXTINF:-1,[NL] RTL 8 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3289
+#EXTINF:-1,[NL] SBS 6
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3290
+#EXTINF:-1,***** BULGARIAN TV *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7636
+#EXTINF:-1,[BG] ACTION PLUS HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7616
+#EXTINF:-1,[BG] BALKANIKA MUSIC TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7619
+#EXTINF:-1,[BG] BNT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7633
+#EXTINF:-1,[BG] BTV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7632
+#EXTINF:-1,[BG] BTV ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7629
+#EXTINF:-1,[BG] BTV CINEMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7631
+#EXTINF:-1,[BG] BTV COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7630
+#EXTINF:-1,[BG] CITY TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7612
+#EXTINF:-1,[BG] COMEDY PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7611
+#EXTINF:-1,[BG] DIEMA SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7628
+#EXTINF:-1,[BG] DIEMA SPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7627
+#EXTINF:-1,[BG] FEN TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7625
+#EXTINF:-1,[BG] FILM PLUS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7609
+#EXTINF:-1,[BG] FILMBOX EXTRA HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7608
+#EXTINF:-1,[BG] HBO 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7624
+#EXTINF:-1,[BG] HBO 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7623
+#EXTINF:-1,[BG] HOBBY LOV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7607
+#EXTINF:-1,[BG] KINONOVA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7605
+#EXTINF:-1,[BG] MAGIC TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7604
+#EXTINF:-1,[BG] NOVA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7621
+#EXTINF:-1,[BG] NOVA KINO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7620
+#EXTINF:-1,[BG] NOVA SPORT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7622
+#EXTINF:-1,***** ROMANIA TV *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7703
+#EXTINF:-1,[RO] 1 MUSIC CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7692
+#EXTINF:-1,[RO] ANIMAL PLANET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7700
+#EXTINF:-1,[RO] ANTENA 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7691
+#EXTINF:-1,[RO] ANTENA STARS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7661
+#EXTINF:-1,[RO] B1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7660
+#EXTINF:-1,[RO] CANAL D HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7698
+#EXTINF:-1,[RO] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7697
+#EXTINF:-1,[RO] CINEMAX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7695
+#EXTINF:-1,[RO] CINEMAX 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7696
+#EXTINF:-1,[RO] DIGI 24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7688
+#EXTINF:-1,[RO] DIGI 24 CRAIOVA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7687
+#EXTINF:-1,[RO] DIGI 24 GALATI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7686
+#EXTINF:-1,[RO] DIGI ANIMAL WORLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7685
+#EXTINF:-1,[RO] DIGI FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7684
+#EXTINF:-1,[RO] DIGI WORLD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7682
+#EXTINF:-1,[RO] DISCOVERY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7681
+#EXTINF:-1,[RO] DISCOVERY SCIENCE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7680
+#EXTINF:-1,[RO] DISNEY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7679
+#EXTINF:-1,[RO] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7678
+#EXTINF:-1,[RO] ETNO TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7652
+#EXTINF:-1,[RO] EUROSPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7644
+#EXTINF:-1,[RO] EUROSPORT 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7643
+#EXTINF:-1,[RO] HAPPY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7677
+#EXTINF:-1,[RO] HBO ROMANIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7674
+#EXTINF:-1,[RO] HBO 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7676
+#EXTINF:-1,[RO] HBO 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7675
+#EXTINF:-1,[RO] KANAL D
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7690
+#EXTINF:-1,[RO] KISS TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7659
+#EXTINF:-1,[RO] NATGEO WILD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7670
+#EXTINF:-1,[RO] NATIONAL GEOGRAPHIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7668
+#EXTINF:-1,[RO] NATIONAL TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7667
+#EXTINF:-1,[RO] NICKELODEON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7666
+#EXTINF:-1,[RO] PRO CINEMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7665
+#EXTINF:-1,[RO] PRO TV HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7664
+#EXTINF:-1,[RO] ROMANIA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7702
+#EXTINF:-1,[RO] TELEKOM SPORT 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7649
+#EXTINF:-1,[RO] TV 1000 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7663
+#EXTINF:-1,[RO] TVR 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7655
+#EXTINF:-1,[RO] TVR 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7654
+#EXTINF:-1,[RO] TVR 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7653
+#EXTINF:-1,[RO] VIASAT NATURE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7673
+#EXTINF:-1,***** BRITANSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2451
+#EXTINF:-1,[UK] DISCOVERY TURBO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2602
+#EXTINF:-1,[UK] NICK JR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2596
+#EXTINF:-1,[UK] 5 USA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2526
+#EXTINF:-1,[UK] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2515
+#EXTINF:-1,[UK] CHANNEL 4 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2512
+#EXTINF:-1,[UK] CHANNEL 5
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2511
+#EXTINF:-1,[UK] DISCOVERY HISTORY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2506
+#EXTINF:-1,[UK] DISCOVERY SCIENCE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2505
+#EXTINF:-1,[UK] DISNEY JUNIOR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2503
+#EXTINF:-1,[UK] FOOD NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2499
+#EXTINF:-1,[UK] HISTORY CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2497
+#EXTINF:-1,[UK] ITV 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2492
+#EXTINF:-1,[UK] NATGEO CHANNEL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2480
+#EXTINF:-1,[UK] NATIONAL GEOGRAPHY WILD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2479
+#EXTINF:-1,[UK] SKY ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2462
+#EXTINF:-1,[UK] SKY COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2459
+#EXTINF:-1,[UK] SKY GREATS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2456
+#EXTINF:-1,[UK] SKY ONE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2455
+#EXTINF:-1,***** POLJSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4435
+#EXTINF:-1,[PL] KUCHNIA +
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4443
+#EXTINF:-1,[PL] POLSAT 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4446
+#EXTINF:-1,[PL] POLSAT 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4447
+#EXTINF:-1,[PL] POLSAT SPORT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7711
+#EXTINF:-1,[PL] TV 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4439
+#EXTINF:-1,[PL] TV 6
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4440
+#EXTINF:-1,[PL] TVN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7705
+#EXTINF:-1,[PL] TVN 7
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4442
+#EXTINF:-1,[PL] TVN 24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4441
+#EXTINF:-1,[PL] TVP 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4436
+#EXTINF:-1,[PL] TVP 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4437
+#EXTINF:-1,[PL] TVP POLONIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4438
+#EXTINF:-1,[PL] TVP INFO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4444
+#EXTINF:-1,[PL] HBO HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7709
+#EXTINF:-1,[PL] HBO 2 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7710
+#EXTINF:-1,[PL] CANAL+
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7706
+#EXTINF:-1,[PL] CANAL+1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7707
+#EXTINF:-1,[PL] CANAL+ FILM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7708
+#EXTINF:-1,[PL] ELEVEN SPORTS 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7712
+#EXTINF:-1,[PL] ELEVEN SPORTS 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7713
+#EXTINF:-1,[PL] ELEVEN SPORTS 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7714
+#EXTINF:-1,[PL] ELEVEN SPORTS 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7715
+#EXTINF:-1,***** PORTUGALSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3143
+#EXTINF:-1,[PT] AXN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3122
+#EXTINF:-1,[PT] AXN BLACK HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3132
+#EXTINF:-1,[PT] AXN WHITE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3123
+#EXTINF:-1,[PT] BENFICA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3066
+#EXTINF:-1,[PT] CINE MUNDO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3126
+#EXTINF:-1,[PT] DISNEY JR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3108
+#EXTINF:-1,[PT] FOX COMEDY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3128
+#EXTINF:-1,[PT] FOX CRIME
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3127
+#EXTINF:-1,[PT] VOX HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3131
+#EXTINF:-1,[PT] FOX LIFE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3130
+#EXTINF:-1,[PT] FOX MOVIES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3129
+#EXTINF:-1,[PT] HISTORIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3072
+#EXTINF:-1,[PT] LIFESTYLE TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3101
+#EXTINF:-1,[PT] MCS EXTREME
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3105
+#EXTINF:-1,[PT] NAT GEO WILD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3071
+#EXTINF:-1,[PT] NBA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3102
+#EXTINF:-1,[PT] PORTO CANAL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3104
+#EXTINF:-1,[PT] RTP 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3141
+#EXTINF:-1,[PT] RTP 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3140
+#EXTINF:-1,[PT] RTP 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3139
+#EXTINF:-1,[PT] RTP ACORES
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3135
+#EXTINF:-1,[PT] RTP AFRICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3134
+#EXTINF:-1,[PT] RTP MADERIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3137
+#EXTINF:-1,[PT] RTP MEMORIA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3136
+#EXTINF:-1,[PT] SIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3078
+#EXTINF:-1,[PT] SIC KIDS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3106
+#EXTINF:-1,[PT] SIC MULHER
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3076
+#EXTINF:-1,[PT] SIC NOTICIAS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3077
+#EXTINF:-1,[PT] SIC RADICAL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3103
+#EXTINF:-1,[PT] SYFY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3125
+#EXTINF:-1,[PT] TV CINE 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3118
+#EXTINF:-1,[PT] TV CINE 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3117
+#EXTINF:-1,[PT] TV CINE 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3116
+#EXTINF:-1,[PT] TV CINE 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3115
+#EXTINF:-1,[PT] TV RECORD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3133
+#EXTINF:-1,[PT] TVI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3074
+#EXTINF:-1,[PT] TVI 24
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3073
+#EXTINF:-1,[PT] 24 KITCHEN HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3068
+#EXTINF:-1,[PT] BABY TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3114
+#EXTINF:-1,[PT] BENFICA TV 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3065
+#EXTINF:-1,[PT] BIGGS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3079
+#EXTINF:-1,[PT] CACAVISION HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3082
+#EXTINF:-1,[PT] CANAL PANDA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3113
+#EXTINF:-1,[PT] CARTOON NETWORK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3111
+#EXTINF:-1,[PT] CBS REALITY
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3092
+#EXTINF:-1,[PT] GLOBO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3088
+#EXTINF:-1,[PT] HOLLYWOOD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3120
+#EXTINF:-1,[PT] JIM JAM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3107
+#EXTINF:-1,[PT] MOTORVISION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3089
+#EXTINF:-1,[PT] NICKELODEON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3110
+#EXTINF:-1,[PT] PFC HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3093
+#EXTINF:-1,[PT] Q CANAL
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3094
+#EXTINF:-1,[PT] REDE TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3095
+#EXTINF:-1,[PT] SIC CARAS
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3096
+#EXTINF:-1,[PT] SPORTING TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3097
+#EXTINF:-1,[PT] TLC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3098
+#EXTINF:-1,[PT] TRAVEL CHANNEL HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3070
+#EXTINF:-1,***** ARABICH KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2623
+#EXTINF:-1,[AR] MBC 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2624
+#EXTINF:-1,[AR] MBC 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2625
+#EXTINF:-1,[AR] MBC 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2626
+#EXTINF:-1,[AR] MBC 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2627
+#EXTINF:-1,[AR] MBC ACTION
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2628
+#EXTINF:-1,[AR] MBC BOLLYWOOD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2633
+#EXTINF:-1,[AR] MBC DRAMA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2631
+#EXTINF:-1,[AR] MBC MASR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2630
+#EXTINF:-1,[AR] MBC MAX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2629
+#EXTINF:-1,[AR] ALJAZEERA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2653
+#EXTINF:-1,[AR] BEIN MOVIES 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2687
+#EXTINF:-1,[AR] BEIN MOVIES 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2688
+#EXTINF:-1,[AR] SYRIA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2660
+#EXTINF:-1,[AR] CARTOON NETWORKC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2816
+#EXTINF:-1,[AR] DUBAI TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2804
+#EXTINF:-1,[AR] ZEE AFLAM
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2810
+#EXTINF:-1,[AR] ZEE ALWAN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2809
+#EXTINF:-1,[AR] AFAK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3382
+#EXTINF:-1,[AR] ALHURRA IRAQ
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3381
+#EXTINF:-1,[AR] HONA BAGHDAD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3383
+#EXTINF:-1,[AR] SAMARRA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3384
+#EXTINF:-1,***** RUSKI KANALI *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7746
+#EXTINF:-1,[RU] RU TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7747
+#EXTINF:-1,[RU] BUM TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7748
+#EXTINF:-1,[RU] ANIMAL PLANET
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7752
+#EXTINF:-1,[RU] MIR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7750
+#EXTINF:-1,[RU] MUZSOYUZ
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7751
+#EXTINF:-1,[RU] OTKRYTYY HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7749
+#EXTINF:-1,[RU] PREMIERA TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7753
+#EXTINF:-1,[RU] TBN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7754
+#EXTINF:-1,[RU] RUSSIAN MUSIC BOX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7755
+#EXTINF:-1,[RU] MATCH FUTBOL 1 HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7756
+#EXTINF:-1,***** KANALI ZA ODRASLE  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/706
+#EXTINF:-1,BRAZZERS TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/88
+#EXTINF:-1,REDLIGHT HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1170
+#EXTINF:-1,PENTHOUSE HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1732
+#EXTINF:-1,HUSTLER HD
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/370
+#EXTINF:-1,PINK EROTIC 1
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1730
+#EXTINF:-1,PINK EROTIC 2
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1731
+#EXTINF:-1,PINK EROTIC 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2957
+#EXTINF:-1,PINK EROTIC 4
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2956
+#EXTINF:-1,PASSIE XXX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1733
+#EXTINF:-1,HARD XXX
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2325
+#EXTINF:-1,MEIDEN HOLLAND
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2182
+#EXTINF:-1,HOT CLUB 3
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2323
+#EXTINF:-1,DORCEL TV
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/810
+#EXTINF:-1,XXX ERO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/2324
+#EXTINF:-1,***** RADIO STANICE  *****
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/707
+#EXTINF:-1,***** CRTANI FILMOVI *****
+http://filmovi.ydns.eu:88/kategorije.mp4
+#EXTINF:-1,Deathstroke knights and dragons
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8823.mp4
+#EXTINF:-1,Frka
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8824.mp4
+#EXTINF:-1,Frozen 2
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8825.mp4
+#EXTINF:-1,Gospodin krtica
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8826.mp4
+#EXTINF:-1,Mortal kombat legends scorpions revenge
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8827.mp4
+#EXTINF:-1,Naprijed
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8828.mp4
+#EXTINF:-1,Over the moon
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8829.mp4
+#EXTINF:-1,Spies in disguise
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8830.mp4
+#EXTINF:-1,The one and only Ivan
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8831.mp4
+#EXTINF:-1,The spongebob movie sponge on the Run
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8832.mp4
+#EXTINF:-1,Auti
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9009.mp4
+#EXTINF:-1,Auti 2
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9010.mp4
+#EXTINF:-1,Auti 3
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9011.mp4
+#EXTINF:-1,Strumpfovi skriveno selo
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9012.mp4
+#EXTINF:-1,Minions
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9013.mp4
+#EXTINF:-1,Pingvini s madagaskara
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9014.mp4
+#EXTINF:-1,***** DOMACI / EX-YU FILMOVI *****
+http://filmovi.ydns.eu:88/kategorije.mp4
+#EXTINF:-1,Dopunska nastava
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8853.mp4
+#EXTINF:-1,Ides idem
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8854.mp4
+#EXTINF:-1,Koncentrisi se baba
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8855.mp4
+#EXTINF:-1,Mare
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8856.mp4
+#EXTINF:-1,Mater
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8857.mp4
+#EXTINF:-1,Otac
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8858.mp4
+#EXTINF:-1,Pun mjesec
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8859.mp4
+#EXTINF:-1,Quo vadis Aida
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8860.mp4
+#EXTINF:-1,Studenac
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8861.mp4
+#EXTINF:-1,Zagrebacki ekvinocij
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8862.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 1)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8893.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 2)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8894.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 3)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8895.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 4)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8896.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 5)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8897.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 6)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8898.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 7)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8899.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 8)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8900.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 9)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8901.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 10)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8902.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 11)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8903.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 12)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8904.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 13)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8905.mp4
+#EXTINF:-1,Juzni vetar 2 (ep: 14)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8906.mp4
+#EXTINF:-1,***** FILMOVI SA PREVODOM *****
+http://filmovi.ydns.eu:88/kategorije.mp4
+#EXTINF:-1,Avengement
+http://filmovi.ydns.eu:88/Akcija/avengement.avi
+#EXTINF:-1,Avengers endgame
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8814.mp4
+#EXTINF:-1,Bad boys for life
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8815.mp4
+#EXTINF:-1,Black panther
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8816.mp4
+#EXTINF:-1,Cold pursuit
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8817.mp4
+#EXTINF:-1,Rambo last blood
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8819.mp4
+#EXTINF:-1,Rogue
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8820.mp4
+#EXTINF:-1,Tenet
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8821.mp4
+#EXTINF:-1,Terminator dark fate
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8822.mp4
+#EXTINF:-1,Another time
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8833.mp4
+#EXTINF:-1,Aquaman
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8834.mp4
+#EXTINF:-1,Captain marvel
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8835.mp4
+#EXTINF:-1,Escape room
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8836.mp4
+#EXTINF:-1,Hold the dark
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8837.mp4
+#EXTINF:-1,Holmes and watson
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8838.mp4
+#EXTINF:-1,Mulan
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8839.mp4
+#EXTINF:-1,On the rocks
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8840.mp4
+#EXTINF:-1,The kid who would be king
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8841.mp4
+#EXTINF:-1,The sister brothers
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8842.mp4
+#EXTINF:-1,Foreman
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8843.mp4
+#EXTINF:-1,American murder family next door
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8844.mp4
+#EXTINF:-1,George michale freedom
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8845.mp4
+#EXTINF:-1,I am heath ledger
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8846.mp4
+#EXTINF:-1,Mountain
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8847.mp4
+#EXTINF:-1,Pavarotti
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8848.mp4
+#EXTINF:-1,Spielberg
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8849.mp4
+#EXTINF:-1,The great hach
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8850.mp4
+#EXTINF:-1,The social dilemma
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8851.mp4
+#EXTINF:-1,Why i am not on facebook
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8852.mp4
+#EXTINF:-1,Centigrade
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8863.mp4
+#EXTINF:-1,His house
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8864.mp4
+#EXTINF:-1,I am your woman
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8865.mp4
+#EXTINF:-1,The craft legacy
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8866.mp4
+#EXTINF:-1,The great war
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8867.mp4
+#EXTINF:-1,The lost husband
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8868.mp4
+#EXTINF:-1,The nest
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8869.mp4
+#EXTINF:-1,The secrets we keep
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8870.mp4
+#EXTINF:-1,The trial of chicago 7
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8871.mp4
+#EXTINF:-1,Uncle frank
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8872.mp4
+#EXTINF:-1,Above the shadows
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8873.mp4
+#EXTINF:-1,Gretel and hansel
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8874.mp4
+#EXTINF:-1,Jiu jitsu
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8875.mp4
+#EXTINF:-1,Paradise hills
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8876.mp4
+#EXTINF:-1,Pinocchio
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8877.mp4
+#EXTINF:-1,Shayam
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8878.mp4
+#EXTINF:-1,Suspiria
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8879.mp4
+#EXTINF:-1,The head hunter
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8880.mp4
+#EXTINF:-1,The mortuaray collection
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8881.mp4
+#EXTINF:-1,Waiting for the miracle to come
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8882.mp4
+#EXTINF:-1,Bliss
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8883.mp4
+#EXTINF:-1,Bloodline
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8884.mp4
+#EXTINF:-1,Death of me
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8885.mp4
+#EXTINF:-1,Dont let go
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8886.mp4
+#EXTINF:-1,It chapter two
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8887.mp4
+#EXTINF:-1,Let it snow
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8888.mp4
+#EXTINF:-1,Possesor uncut
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8889.mp4
+#EXTINF:-1,Run
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8890.mp4
+#EXTINF:-1,Spell
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8891.mp4
+#EXTINF:-1,The clearing
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8892.mp4
+#EXTINF:-1,An American picle
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8907.mp4
+#EXTINF:-1,Babyteeth
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8908.mp4
+#EXTINF:-1,Borat subsequent moviefilm
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8909.mp4
+#EXTINF:-1,Elsewhere
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8910.mp4
+#EXTINF:-1,Hubie halloween
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8911.mp4
+#EXTINF:-1,Jexi
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8912.mp4
+#EXTINF:-1,Just a gigolo
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8913.mp4
+#EXTINF:-1,Made in Italy
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8914.mp4
+#EXTINF:-1,Palm springs
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8915.mp4
+#EXTINF:-1,The war with grandpa
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8916.mp4
+#EXTINF:-1,Arkansas
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8917.mp4
+#EXTINF:-1,Crypto
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8918.mp4
+#EXTINF:-1,Enola holmes
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8919.mp4
+#EXTINF:-1,Hammer
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8920.mp4
+#EXTINF:-1,Honest thief
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8921.mp4
+#EXTINF:-1,Human capital
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8922.mp4
+#EXTINF:-1,Infamous
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8923.mp4
+#EXTINF:-1,Let go him
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8924.mp4
+#EXTINF:-1,Only the animals
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8925.mp4
+#EXTINF:-1,The tax collector
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8926.mp4
+#EXTINF:-1,Fast and Furious hobbs and shaw
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8818.mp4
+#EXTINF:-1,Fast and Furious (ep: 1)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8927.mp4
+#EXTINF:-1,Fast and Furious (ep: 2)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8928.mp4
+#EXTINF:-1,Fast and Furious (ep: 3)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8929.mp4
+#EXTINF:-1,Fast and Furious (ep: 4)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8930.mp4
+#EXTINF:-1,Fast and Furious (ep: 5)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8931.mp4
+#EXTINF:-1,Fast and Furious (ep: 6)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8932.mp4
+#EXTINF:-1,Fast and Furious (ep: 7)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8933.mp4
+#EXTINF:-1,Home alone (ep: 1)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8934.mp4
+#EXTINF:-1,Home alone (ep: 2)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8935.mp4
+#EXTINF:-1,Home alone (ep: 3)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8936.mp4
+#EXTINF:-1,Home alone (ep: 4)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8937.mp4
+#EXTINF:-1,Crossword mysteries abracadaver
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8938.mp4
+#EXTINF:-1,Dark encounter
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8939.mp4
+#EXTINF:-1,Deadly switch
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8940.mp4
+#EXTINF:-1,Exit plan
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8941.mp4
+#EXTINF:-1,Inheritance
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8942.mp4
+#EXTINF:-1,Luce
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8943.mp4
+#EXTINF:-1,Rojo
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8944.mp4
+#EXTINF:-1,The invisible man
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8945.mp4
+#EXTINF:-1,The vast of night
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8946.mp4
+#EXTINF:-1,Uncut gems
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8947.mp4
+#EXTINF:-1,A dogs purpose
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8948.mp4
+#EXTINF:-1,A dogs way home
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8949.mp4
+#EXTINF:-1,A kid like jake
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8950.mp4
+#EXTINF:-1,Anka
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8951.mp4
+#EXTINF:-1,Beaty and the beast
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8952.mp4
+#EXTINF:-1,I can only imagine
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8953.mp4
+#EXTINF:-1,Show dogs
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8954.mp4
+#EXTINF:-1,Storm boy
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8955.mp4
+#EXTINF:-1,We dont belong here
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8956.mp4
+#EXTINF:-1,Wonderstruck
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8957.mp4
+#EXTINF:-1,After
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8958.mp4
+#EXTINF:-1,After we collided
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8959.mp4
+#EXTINF:-1,All the bright places
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8960.mp4
+#EXTINF:-1,Alwazs be mz mazbe
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8961.mp4
+#EXTINF:-1,Berlin i love zou
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8962.mp4
+#EXTINF:-1,Better than love
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8963.mp4
+#EXTINF:-1,Downtown abbez
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8964.mp4
+#EXTINF:-1,Five feet apart
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8965.mp4
+#EXTINF:-1,Long shot
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8966.mp4
+#EXTINF:-1,The secret dare to dream
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8967.mp4
+#EXTINF:-1,Film - 2067
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8968.mp4
+#EXTINF:-1,Film - 3022
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8969.mp4
+#EXTINF:-1,Archive
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8970.mp4
+#EXTINF:-1,Dune drifter
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8971.mp4
+#EXTINF:-1,I am mother
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8972.mp4
+#EXTINF:-1,Lucz in the skz
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8973.mp4
+#EXTINF:-1,Proximitz
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8974.mp4
+#EXTINF:-1,Solitarz
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8975.mp4
+#EXTINF:-1,The dustwalker
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8976.mp4
+#EXTINF:-1,The mandela effect
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8977.mp4
+#EXTINF:-1,Deadwood
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8978.mp4
+#EXTINF:-1,Gone are the days
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8979.mp4
+#EXTINF:-1,In  a valley of violence
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8980.mp4
+#EXTINF:-1,Justice
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8981.mp4
+#EXTINF:-1,The balled of lefty brown
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8982.mp4
+#EXTINF:-1,The duel
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8983.mp4
+#EXTINF:-1,The hateful eight
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8984.mp4
+#EXTINF:-1,The outsider
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8985.mp4
+#EXTINF:-1,Traded
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8986.mp4
+#EXTINF:-1,2 Guns (2013)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8987.mp4
+#EXTINF:-1,Allagash 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8988.mp4
+#EXTINF:-1,Alone 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8989.mp4
+#EXTINF:-1,Another Round 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8990.mp4
+#EXTINF:-1,Bad Boys
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8991.mp4
+#EXTINF:-1,Bad Boys 2
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8992.mp4
+#EXTINF:-1,Bad Education (2019)
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8993.mp4
+#EXTINF:-1,Baywatch 2017
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8994.mp4
+#EXTINF:-1,Homefront
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8995.mp4
+#EXTINF:-1,Hunter Hunter 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8996.mp4
+#EXTINF:-1,Instinct 2019
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8997.mp4
+#EXTINF:-1,Mechanic
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8998.mp4
+#EXTINF:-1,Pain and Gain
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/8999.mp4
+#EXTINF:-1,San Andreas 2015
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9000.mp4
+#EXTINF:-1,Skyscaper 2018 
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9001.mp4
+#EXTINF:-1,The Banker 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9002.mp4
+#EXTINF:-1,Transformers
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9003.mp4
+#EXTINF:-1,Transformers 2 Revenge of the Fallen
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9004.mp4
+#EXTINF:-1,Transporter 2002
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9005.mp4
+#EXTINF:-1,Transporter 2 2005
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9006.mp4
+#EXTINF:-1,Transporter 3 2008
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9007.mp4
+#EXTINF:-1,Unhinged 2020
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9008.mp4
+#EXTINF:-1,The grudge
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9015.mp4
+#EXTINF:-1,Kralj lavova
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9016.mp4
+#EXTINF:-1,Dark phoenix
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9017.mp4
+#EXTINF:-1,Godzilla king of the monsters
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9018.mp4
+#EXTINF:-1,Aladin
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9019.mp4
+#EXTINF:-1,Ad Astra
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9020.mp4
+#EXTINF:-1,John Wick 3
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9021.mp4
+#EXTINF:-1,Under the silver lake
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9022.mp4
+#EXTINF:-1,Glass
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9023.mp4
+#EXTINF:-1,The curse of la llorona
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9024.mp4
+#EXTINF:-1,Happy death day
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9025.mp4
+#EXTINF:-1,Alita battle angel
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9026.mp4
+#EXTINF:-1,Serenity
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9027.mp4
+#EXTINF:-1,Brahms the boy 2
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9028.mp4
+#EXTINF:-1,The postcard killings
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9029.mp4
+#EXTINF:-1,Antebellum
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9030.mp4
+#EXTINF:-1,Revolt
+http://diaspromedia.tv:80/movie/zlatko.ivanov/2uSRaSojM7/9031.mp4
+#EXTINF:-1,[RADIO] NARODNI RADIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1034
+#EXTINF:-1,[RADIO] JANJA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1036
+#EXTINF:-1,[RADIO] KAMELEON
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1037
+#EXTINF:-1,[RADIO] TEFERIC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1040
+#EXTINF:-1,[RADIO] GLAS DRINE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1153
+#EXTINF:-1,[RADIO] PINK RADIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1155
+#EXTINF:-1,[RADIO] NAXI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1156
+#EXTINF:-1,[RADIO] JAT
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1157
+#EXTINF:-1,[RADIO] NOSTALGIJA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1158
+#EXTINF:-1,[RADIO] DZUNGLA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1033
+#EXTINF:-1,[RADIO] OK RADIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/1159
+#EXTINF:-1,[RADIO] BN
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3212
+#EXTINF:-1,[RADIO] CARSIJA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3213
+#EXTINF:-1,[RADIO] JUZNI VETAR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3214
+#EXTINF:-1,[RADIO] OTVORENI RADIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3377
+#EXTINF:-1,[RADIO] LUDNICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3378
+#EXTINF:-1,[RADIO] BIR
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/3385
+#EXTINF:-1,[RADIO] POSAVINA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4481
+#EXTINF:-1,[RADIO] YU RADIO NP
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4488
+#EXTINF:-1,[RADIO] BELLE AMIE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4564
+#EXTINF:-1,[RADIO] LUKAVAC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4570
+#EXTINF:-1,[RADIO] ZENICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4572
+#EXTINF:-1,[RADIO] BRCKO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4573
+#EXTINF:-1,[RADIO] STUDIO-D SREBRENIK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4574
+#EXTINF:-1,[RADIO] SREBRENIK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4575
+#EXTINF:-1,[RADIO] SKALA UGLJEVIK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4577
+#EXTINF:-1,[RADIO] LOZNICA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4578
+#EXTINF:-1,[RADIO] AS SABAC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4579
+#EXTINF:-1,[RADIO] POSTAJA ORASJE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4580
+#EXTINF:-1,[RADIO] ANTENA RADIO
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/4581
+#EXTINF:-1,[RADIO] RUJNICA RADIO-ZAVIDOVICI
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7759
+#EXTINF:-1,[RADIO] MARIJA
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7785
+#EXTINF:-1,[RADIO] MIR-MEDJUGORJE
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/7786
+#EXTINF:-1,[RADIO] ODZAK
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8516
+#EXTINF:-1,[RADIO] STARI GRAD SARAJEVO (RSG)
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8519
+#EXTINF:-1,[RADIO] RADIO BIHAC
+http://diaspromedia.tv:80/zlatko.ivanov/2uSRaSojM7/8527
